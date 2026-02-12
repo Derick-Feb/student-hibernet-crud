@@ -1,6 +1,0 @@
-edu\student\project\service\StudentService.class
-edu\student\project\dao\StudentDAO.class
-edu\student\project\model\Student.class
-edu\student\project\util\HibernateUtil.class
-edu\student\project\web\StudentServlet.class
-edu\student\project\Main.class
