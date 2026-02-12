@@ -1,0 +1,15 @@
+
+target/
+
+.github/
+.idea/ *.iml *.log *.tmp *.bak *.swp *.swo .DS_Store Thumbs.db
+.vscode/
+
+# Dependency directories node_modules/ vendor/ # Build directories dist/ build/
+*.class *.jar *.war *.ear 
+
+# Logs and databases 
+logs/ *.log *.sql *.sqlite # OS generated files .DS_Store Thumbs.db
+
+# Temporary files 
+*.tmp *.bak *.swp *.swo 
